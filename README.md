@@ -1,2 +1,2 @@
-#### Data-Analysis-Project_Python
-This is a Kaggle dataset having 110k medical appointments in Brazil and here we tried to focus from different angle to figure out the reasons/factors behind the no-show appointments.
+#### Investigating a Kaggle Dataset on Medical Appointments
+This is a Kaggle dataset having 110k medical appointments in Brazil and here I tried to figure out the reasons/factors behind the no-show appointments.
